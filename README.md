@@ -9,4 +9,4 @@ C# C++ Bash Script C# C++ Windows Terminal HTML5 Anaconda Nginx Canva Figma Adob
 Af1ann/Af1ann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Af1ann)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Af1ann)](https://github.com/Af1ann/github-readme-stats)
