@@ -67,8 +67,8 @@
 
 ## 📫 Как связаться
 
-- 💬 **Telegram:** [@Af1ann](https://t.me/Af1ann) (если есть — добавь ссылку)  
-- 📧 **Email:** arutyun2015@gmail.ru (если хочешь указать)  
+- 💬 **Telegram:** [@Af1ann](https://t.me/b324er)
+- 📧 **Email:** arutyun2015@gmail.ru 
 
 ---
 
